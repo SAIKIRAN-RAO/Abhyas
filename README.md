@@ -1,2 +1,2 @@
 # Abhyas
-Personal Notes and Blog App
+NodeJs, Express, EJS & MongoDB Blog - CRUD Application
