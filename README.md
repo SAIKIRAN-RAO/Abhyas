@@ -1,6 +1,6 @@
 # Abhyas
 Abhyas - a blog/notes CRUD application . 
-# Features includes CRUD operations, Admin User authentication, Paging . Planned AWS hosting
+Features includes CRUD operations, Admin User authentication, Paging . Planned AWS hosting
 # Demo -
 ![Screenshot (74)](https://github.com/SAIKIRAN-RAO/Abhyas/assets/115299244/524a59af-3f54-43eb-8f7b-f8120544f334)
 ![Screenshot (75)](https://github.com/SAIKIRAN-RAO/Abhyas/assets/115299244/66cfd287-6ede-4c6b-9cb8-eec7b1d7151f)
