@@ -1,5 +1,5 @@
 # Abhyas
-Abhyas - a blog/notes CRUD application . 
+Abhyas - a blogs/notes CRUD application . 
 # Features
 Features includes CRUD operations, Admin User authentication, Paging . Planned AWS hosting
 # Demo -
